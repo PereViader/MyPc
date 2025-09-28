@@ -5,3 +5,5 @@
 ## [Windhawk](https://windhawk.net/)
 
 ## [CDisplayEx](https://www.cdisplayex.com/)
+
+## [Cryptomator](https://cryptomator.org/)
