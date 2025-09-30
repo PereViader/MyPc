@@ -19,3 +19,8 @@
 ## [Git](https://git-scm.com/)
 
 ## [WinSCP](https://winscp.net/eng/index.php)
+
+
+## More steps
+
+https://winaero.com/how-to-hide-the-recycle-bin-icon-in-windows-11/
