@@ -14,7 +14,9 @@
 
 ## [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
-## [Keepass](https://keepass.info/)
+## [KeePass](https://keepass.info/)
+
+## [KeePassOTP](https://github.com/Rookiestyle/KeePassOTP)
 
 ## [Git](https://git-scm.com/)
 
