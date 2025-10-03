@@ -22,6 +22,9 @@
 
 ## [WinSCP](https://winscp.net/eng/index.php)
 
+## [VLC](https://www.videolan.org/vlc/)
+### Disable title on start video
+Turn off at Preferences > Subtitles > Display title  
 
 ## More steps
 
