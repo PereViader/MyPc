@@ -12,6 +12,8 @@
 
 ## [Visual Studio Code](https://code.visualstudio.com/)
 
+## [Everything](https://www.voidtools.com/)
+
 ## [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
 ## [KeePass](https://keepass.info/)
